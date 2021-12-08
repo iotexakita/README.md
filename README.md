@@ -2,7 +2,7 @@
 
  HOLD IOTEX AKITA
 
-Official Website: https://iotexakita.com/
+Official Website: https://akitaiotex.com/
 
 Socials:
 Telegram Channel: https://t.me/IotexAkitaChannel
