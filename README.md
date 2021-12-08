@@ -8,8 +8,7 @@ Socials:
 Telegram Channel: https://t.me/IotexAkitaChannel
 Telegram Chat: https://t.me/IotexAkita
 Twitter: https://twitter.com/IoAkita
-Medium : https://medium.com/@iotexakita
 Reddit: https://www.reddit.com/user/Iotex_Akita
 
-Contract Token Iotex Akita : https://iotexscan.io/token/0x38b5ae6bf8af1b2e005f5f42c44a84fa62de3f25
+Contract Token Iotex Akita : https://iotexscan.io/address/io19qmekqndvv4n2cxq8tjdk7gkchxjdtr3nwjdzl
 
